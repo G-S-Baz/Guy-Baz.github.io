@@ -1,2 +1,2 @@
 # Guy-Baz.github.io
-Mu personal GitHub page
+My personal GitHub page
