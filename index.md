@@ -5,7 +5,9 @@ subtitle: Where I share thoughts and other things
 cover-img: "/photos/IMG-20211121-WA0073.jpg"
 ---
 
-# interests:
+<div align="center">
+    # interests:
+</div>
 
 <p align=center> - art</p>     
 <p align=center>     - research</p>       
