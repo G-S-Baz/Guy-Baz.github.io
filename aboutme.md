@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Present and future perspectives
 ---
 
 My name is Guy Baz. I'm a phd student at Weizmann institute of sceince.
