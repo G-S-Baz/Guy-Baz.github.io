@@ -2,8 +2,21 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 title: "Guy Baz GitHub Page:"
 show_downloads: false
 
+############################
+# --- Required options --- #
+############################
+
+# Name of website
+title: Magic
+
+# Your name to show in the footer
+author: Guy Baz
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
+
+################
+# --- Logo --- #
+################
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
