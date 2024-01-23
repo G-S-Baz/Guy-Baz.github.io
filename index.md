@@ -1,0 +1,12 @@
+---
+layout: home
+title: My website
+subtitle: Where I share thoughts and other things
+---
+
+interests:
+
+- art
+- research
+- daydreaming
+- nightdreaming
