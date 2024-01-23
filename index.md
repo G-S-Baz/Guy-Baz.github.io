@@ -5,10 +5,10 @@ subtitle: Where I share thoughts and other things
 cover-img: "/photos/IMG-20211121-WA0073.jpg"
 ---
 
-<div align="center">
+<!-- <div align="center">
     # interests:
-</div>
-
+</div> -->
+<h1 style="text-align: center;">interests</h1>
 <p align=center> - art</p>     
 <p align=center>     - research</p>       
 <p align=center> - daydreaming</p>    
