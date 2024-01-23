@@ -1,2 +1,2 @@
-# Guy's GitHub page
+# Where I share thoughts and other projects
 
