@@ -5,7 +5,7 @@ subtitle: Where I share thoughts and other things
 cover-img: "/photos/IMG-20211121-WA0073.jpg"
 ---
 
-# interests:
+<p align=center> # interests:  </p>
 
 - art           - daydreaming
 
