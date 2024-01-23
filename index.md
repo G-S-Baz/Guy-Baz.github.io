@@ -7,9 +7,9 @@ cover-img: "/photos/IMG-20211121-WA0073.jpg"
 
 # interests:
 
-<p align=center> - art           
-<p align=center>     - research          
-<p align=center> - daydreaming    
-<p align=center>     - nightdreaming
+<p align=center> - art</p>     
+<p align=center>     - research</p>       
+<p align=center> - daydreaming</p>    
+<p align=center>     - nightdreaming</p>
 ---
 ![7 T MRI](/photos/siemens-mri-terra_3k_0010_1800000007028985.webp)
