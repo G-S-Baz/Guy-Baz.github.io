@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: "Guy Baz GitHub Page:"
+title: "Guy's' GitHub Page:"
 show_downloads: false
 
 ############################
@@ -22,7 +22,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    
+
 ################
 # --- Logo --- #
 ################
