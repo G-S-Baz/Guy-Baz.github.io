@@ -1,2 +1,2 @@
-# Where I share thoughts and other projects
+Where I share thoughts and other projects
 
