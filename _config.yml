@@ -31,7 +31,7 @@ navbar-links:
 round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /pictures/IMG-20211121-WA0049.jpg
+title-img: C:/PyCourse/GitProject/Guy-Baz.github.io/photos/IMG-20211121-WA0049.jpg
 
 # Add the website title to the title of every page
 title-on-all-pages: true
